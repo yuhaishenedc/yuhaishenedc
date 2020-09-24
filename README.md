@@ -3,7 +3,7 @@
 - 🌱 I’m currently trying to get my phd
 - 💬 Ask me about algorithms or machine learning
 - 📫 How to reach me: 2017141461156@stu.scu.edu.cn
-- ⚡ Fun fact: available
+- ⚡ Fun fact: still available
 
 
 <!--
